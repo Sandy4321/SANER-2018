@@ -33,5 +33,5 @@ The survey material is available at the Survey folder.
 
 ### * Contact
 Troubles? Feel free to get in touch: <br>
-Luiz Felipe Fronchetti - fronchetti at usp br
+Luiz Felipe Fronchetti - fronchetti at usp br <br>
 Gustavo Pinto - gpinto at ufpa br
